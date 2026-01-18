@@ -26,6 +26,15 @@ so you stay in control of your data and your environment.
 
 ---
 
+## ⭐ Featured Projects
+
+These are the **pinned apps** on this profile:
+
+- **TaskBox** — A feature-rich, self-hosted task application for organizing to-do lists efficiently.
+- **Retro Pong** — A retro-style Pong game with CRT effects and adaptive AI, available via Docker and HTML5.
+
+---
+
 ## 🧠 Why L1 Apps Exists
 
 There’s no pitch and no hidden agenda.
@@ -65,3 +74,4 @@ https://hub.docker.com/r/l1apps
 ## 📜 License
 
 MIT License
+
